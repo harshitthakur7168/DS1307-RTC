@@ -1,5 +1,5 @@
 
-//Code by tronixstuff
+//Code by harshit
 
 
 #include "Wire.h"
